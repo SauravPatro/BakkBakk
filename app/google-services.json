@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "247397048141",
+    "firebase_url": "https://bakkbakk-8bc82.firebaseio.com",
+    "project_id": "bakkbakk-8bc82",
+    "storage_bucket": "bakkbakk-8bc82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247397048141:android:f3e9015b5c437e81",
+        "android_client_info": {
+          "package_name": "com.example.asus.bakkbakk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247397048141-q97imbhehliv7ol13snb69f2s2beu4e4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asus.bakkbakk",
+            "certificate_hash": "425dc72270254d6faee4a6bf4ef0bc559a32f1a7"
+          }
+        },
+        {
+          "client_id": "247397048141-ru8dujgrt8r0av5rn0fmv0mudaa2tb2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4LoPxdIePWi6DHHODNVp2o6nnmLhF7SE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247397048141-ru8dujgrt8r0av5rn0fmv0mudaa2tb2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
